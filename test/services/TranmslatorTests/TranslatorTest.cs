@@ -11,9 +11,9 @@ namespace TranmslatorTests
     [TestClass]
     public class TranslatorTest
     {
-        private string translatorKey ="";
-        private string translatorTokenUri = "";
-        private string translatorUri = "";
+        private readonly string translatorKey ="";
+        private readonly string translatorTokenUri = "";
+        private readonly string translatorUri = "";
 
         [TestMethod]
         public async Task Detectlanguage()
