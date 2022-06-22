@@ -1,0 +1,12 @@
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\bin\Debug\net6.0\TranslatorIntegration.Helpers.deps.json
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\bin\Debug\net6.0\TranslatorIntegration.Helpers.dll
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\bin\Debug\net6.0\TranslatorIntegration.Helpers.pdb
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\obj\Debug\net6.0\TranslatorIntegration.Helpers.csproj.AssemblyReference.cache
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\obj\Debug\net6.0\TranslatorIntegration.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\obj\Debug\net6.0\TranslatorIntegration.Helpers.AssemblyInfoInputs.cache
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\obj\Debug\net6.0\TranslatorIntegration.Helpers.AssemblyInfo.cs
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\obj\Debug\net6.0\TranslatorIntegration.Helpers.csproj.CoreCompileInputs.cache
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\obj\Debug\net6.0\TranslatorIntegration.Helpers.dll
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\obj\Debug\net6.0\refint\TranslatorIntegration.Helpers.dll
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\obj\Debug\net6.0\TranslatorIntegration.Helpers.pdb
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TranslatorIntegration.Helpers\obj\Debug\net6.0\ref\TranslatorIntegration.Helpers.dll

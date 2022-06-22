@@ -1,0 +1,12 @@
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\bin\Debug\net6.0\TrnaslatorIntegration.Services.Interfaces.deps.json
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\bin\Debug\net6.0\TrnaslatorIntegration.Services.Interfaces.dll
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\bin\Debug\net6.0\TrnaslatorIntegration.Services.Interfaces.pdb
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\obj\Debug\net6.0\TrnaslatorIntegration.Services.Interfaces.csproj.AssemblyReference.cache
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\obj\Debug\net6.0\TrnaslatorIntegration.Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\obj\Debug\net6.0\TrnaslatorIntegration.Services.Interfaces.AssemblyInfoInputs.cache
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\obj\Debug\net6.0\TrnaslatorIntegration.Services.Interfaces.AssemblyInfo.cs
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\obj\Debug\net6.0\TrnaslatorIntegration.Services.Interfaces.csproj.CoreCompileInputs.cache
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\obj\Debug\net6.0\TrnaslatorIntegration.Services.Interfaces.dll
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\obj\Debug\net6.0\refint\TrnaslatorIntegration.Services.Interfaces.dll
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\obj\Debug\net6.0\TrnaslatorIntegration.Services.Interfaces.pdb
+G:\projects\projects\private\github\Azure-Function-Azure-Trnaslation-Service-Long-HTML\src\TrnaslatorIntegration.Services.Interfaces\obj\Debug\net6.0\ref\TrnaslatorIntegration.Services.Interfaces.dll
